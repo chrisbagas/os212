@@ -11,6 +11,9 @@ ZCZC W01  30 L11 Assignment #1: Preparing Virtual Box
 ZCZC W01  35 L12 Assignment #2: Importing OVA and Setting Up Putty and Winscp
 ZCZC W01  90 L13 Assignment #3: Learning Basic Scripting
 ZCZC W01  30 L14 Assignment #4: Dressing Up My Virtual Box
-ZCZC W01  25 L15 Assignment #5: Setting up SSH Key and Connecting to Github
+ZCZC W01  25 L15 Assignment #5: Setting Up SSH Key and Connecting to Github
 ZCZC W01  10 L03 Connecting SSH Key and Git Clonning
 ZCZC W01 100 L06 Reading and Watching Videos Related to Linux and Scripting
+ZCZC W01  15 L16 Assignment #6: Setting Up Links Page and Connecting to Github Page
+ZCZC W01  10 L17 Assignment #7: Updating mylog
+ZCZC W01 120 L18 Assignment #8: Learning AWK, SED, Grep, Regex, and Bash

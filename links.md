@@ -1,4 +1,7 @@
-#LINKS
+---
+permalink: /LINKS/
+---
+# LINKS
 1. [Linux Basic Command](https://www.hostinger.com/tutorials/linux-commands)<br>
 A beginner guide to most of linux commands. This helps me to know and understand most of linux basic commands.
 2. [REGEX Cheatsheat](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)<br>
