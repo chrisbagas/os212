@@ -4,4 +4,13 @@
 ZCZC W00  05 L01 Checking SCELE
 ZCZC W00  20 L04 Making Github page
 ZCZC W00  60 L06 Reading Assignments
-ZCZC W00  15 L04 Updating Github page 
+ZCZC W00  15 L04 Updating Github page
+ZCZC W01 100 L02 Zoom Meeting pak Anwar Ma'sum
+ZCZC W01  05 L05 Quiz W00
+ZCZC W01  30 L11 Assignment #1: Preparing Virtual Box
+ZCZC W01  35 L12 Assignment #2: Importing OVA and Setting Up Putty and Winscp
+ZCZC W01  90 L13 Assignment #3: Learning Basic Scripting
+ZCZC W01  30 L14 Assignment #4: Dressing Up My Virtual Box
+ZCZC W01  25 L15 Assignment #5: Setting up SSH Key and Connecting to Github
+ZCZC W01  10 L03 Connecting SSH Key and Git Clonning
+ZCZC W01 100 L06 Reading and Watching Videos Related to Linux and Scripting
