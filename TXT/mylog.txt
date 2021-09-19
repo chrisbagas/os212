@@ -17,3 +17,15 @@ ZCZC W01 100 L06 Reading and Watching Videos Related to Linux and Scripting
 ZCZC W01  15 L16 Assignment #6: Setting Up Links Page and Connecting to Github Page
 ZCZC W01  10 L17 Assignment #7: Updating mylog
 ZCZC W01 120 L18 Assignment #8: Learning AWK, SED, Grep, Regex, and Bash
+ZCZC W02 100 L02 Zoom Meeting pak Anwar Ma'sum
+ZCZC W02  20 L05 Quiz W01
+ZCZC W02  30 L11 Assignment #1: Reading chapter 16+17
+ZCZC W02  40 L12 Assignment #2: Trying out the demos
+ZCZC W02 240 L13 Assignment #3: Watching 2 cyber security videos
+ZCZC W02  10 L14 Assignment #4: Generate GnuPG key
+ZCZC W02  05 L15 Assignment #5: Listing all GnuPG
+ZCZC W02  05 L16 Assignment #6: Importing ospubkey.txt
+ZCZC W02  70 L06 Reading and Watching Videos Related to Linux and Scripting
+ZCZC W02  15 L18 Assignment #8: Exporting my public key
+ZCZC W02  10 L19 Assignment #9: Updating Links page
+ZCZC W02  45 L20 Assignment #10-13: Review peer Links, Updating mylog, and Making myscript.sh
