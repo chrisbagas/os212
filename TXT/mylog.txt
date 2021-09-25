@@ -30,3 +30,15 @@ ZCZC W02  05 L17 Assignment #7: Signing operating systems public key
 ZCZC W02  15 L18 Assignment #8: Exporting my public key
 ZCZC W02  10 L19 Assignment #9: Updating Links page
 ZCZC W02  45 L20 Assignment #10-13: Review peer Links, Updating mylog, and Making myscript.sh
+ZCZC W03 200 L02 Zoom Meeting pak Anwar Ma'sum
+ZCZC W03  20 L05 Quiz W02
+ZCZC W03  60 L11 Assignment #1: Reading chapter 13+14+15
+ZCZC W03  30 L12 Assignment #2: Trying out the demos
+ZCZC W03  50 L13 Assignment #3: Trying previous midterm problems
+ZCZC W03  10 L14 Assignment #4: Update .bash_aliases
+ZCZC W03  70 L15 Assignment #5: Create extra virtual disk
+ZCZC W03  70 L06 Reading and watching file systems reference
+ZCZC W03  20 L16 Assignment #6: Adding bookmark LINKS
+ZCZC W03  15 L17 Assignment #7: Review my peer links
+ZCZC W03  15 L18 Assignment #8: Update mylog.txt
+ZCZC W03  05 L19 Assignment #9: Submit assignment 3

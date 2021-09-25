@@ -18,3 +18,12 @@ A C language guide. This website explains C language from the basics to advance
 Basic explanation of cyber security. This website also give explanation on different types of attack that can occur.
 3. [GnuPG Tutorial](https://www.devdungeon.com/content/gpg-tutorial)<br>
 A GnuPG tutorial. This website explains GnuPG step by step.
+## W03
+1. [Linux File System Basics Commands](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
+Basic linux file system commands. This website can help on learning some basic linux file commands.
+2. [File System in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
+A quick explanation on file system in operating system. This website helps understand file system in operating system.
+3. [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
+A quick explanation on linux file system. This website explains various features and types of linux file system.
+4. [FUSE Linux](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+An explanation on what is FUSE in linux. This website helps on understanding what is FUSE and how it works as the website give a full explanation on FUSE.
