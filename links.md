@@ -28,5 +28,5 @@ A quick explanation on linux file system. This website explains various features
 4. [FUSE Linux](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 An explanation on what is FUSE in linux. This website helps on understanding what is FUSE and how it works as the website give a full explanation on FUSE.
 ## W04
-1. [Memory Management in OS] (https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+1. [Memory Management in OS](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 A quick explanation on memory management in OS. This website gives explanation on various topic of memory management in OS
