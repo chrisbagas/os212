@@ -42,3 +42,16 @@ ZCZC W03  20 L16 Assignment #6: Adding bookmark LINKS
 ZCZC W03  15 L17 Assignment #7: Review my peer links
 ZCZC W03  15 L18 Assignment #8: Update mylog.txt
 ZCZC W03  05 L19 Assignment #9: Submit assignment 3
+ZCZC W04 240 L02 Zoom Meeting pak Anwar Ma'sum
+ZCZC W04  20 L05 Quiz W03
+ZCZC W04  60 L11 Assignment #1: Reading chapter 9
+ZCZC W04  50 L12 Assignment #2: Trying out the demos
+ZCZC W04  60 L13 Assignment #3: Trying previous midterm problems
+ZCZC W04  10 L14 Assignment #4: Install Package List 2
+ZCZC W04  40 L15 Assignment #5: Fetch and extract file WEEK04.tar.bz2.asc
+ZCZC W04  90 L06 Reading and watching  reference
+ZCZC W04  20 L16 Assignment #6: Adding bookmark LINKS
+ZCZC W04  15 L17 Assignment #7: Review my peer links
+ZCZC W04  15 L18 Assignment #8: Update mylog.txt
+ZCZC W04  05 L19 Assignment #9: Submit assignment 4
+
