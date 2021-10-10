@@ -30,3 +30,8 @@ An explanation on what is FUSE in linux. This website helps on understanding wha
 ## W04
 1. [Memory Management in OS](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 A quick explanation on memory management in OS. This website gives explanation on various topic of memory management in OS
+## W05
+1. [Memory Paging](https://www.javatpoint.com/os-paging-with-example)<br>
+An explanation on how paging memory works. This website will explain on how paging from logical memory to physical memory works. You can also visit other page surrounding paging topic in this website.
+2. [Another Memory Paging](https://www.studytonight.com/operating-system/paging-in-operating-systems)<br>
+A more complete explanation on paging memory. This website gives more variation on paging memory than the previous link.

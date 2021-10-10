@@ -54,4 +54,14 @@ ZCZC W04  20 L16 Assignment #6: Adding bookmark LINKS
 ZCZC W04  15 L17 Assignment #7: Review my peer links
 ZCZC W04  15 L18 Assignment #8: Update mylog.txt
 ZCZC W04  05 L19 Assignment #9: Submit assignment 4
-
+ZCZC W05 240 L02 Zoom Meeting pak Anwar Ma'sum
+ZCZC W05  20 L05 Quiz W03
+ZCZC W05  70 L11 Assignment #1: Reading chapter 10
+ZCZC W05  60 L12 Assignment #2: Trying out the demos
+ZCZC W05  80 L13 Assignment #3: Trying previous midterm problems
+ZCZC W05  10 L14 Assignment #4: Doing assignment 4
+ZCZC W05  60 L06 Reading and watching  reference
+ZCZC W05  20 L15 Assignment #5: Adding bookmark LINKS
+ZCZC W05  15 L17 Assignment #7: Review my peer links
+ZCZC W05  15 L18 Assignment #8: Update mylog.txt
+ZCZC W05  05 L19 Assignment #9: Submit assignment
