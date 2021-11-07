@@ -40,3 +40,8 @@ A more complete explanation on paging memory. This website gives more variation 
 A guide on fork in C language. This website gives explanation and example on how fork work in C language.
 2. [Process in OS](https://www.studytonight.com/operating-system/operating-system-processes)<br>
 A in depth look on process in OS. This website teaches you all about process in OS.
+## W07
+1. [Thread and Multithreading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
+A in depth explanation on thread and multithreading. This website will give you in depth explanation on multithreading and other correlating subjects.
+2. [Synchronization in OS](https://www.studytonight.com/operating-system/process-synchronization)<br>
+This website will explain on the subject of synchronization. The website will give in depth explanation on how synchronization works and how to fix some of the issue when handling synchronization.
