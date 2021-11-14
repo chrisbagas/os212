@@ -45,3 +45,6 @@ A in depth look on process in OS. This website teaches you all about process in 
 A in depth explanation on thread and multithreading. This website will give you in depth explanation on multithreading and other correlating subjects.
 2. [Synchronization in OS](https://www.studytonight.com/operating-system/process-synchronization)<br>
 This website will explain on the subject of synchronization. The website will give in depth explanation on how synchronization works and how to fix some of the issue when handling synchronization.
+## W08
+1. [Linux from Scratch]<https://www.linuxfromscratch.org/lfs/view/11.0/index.html><br>
+A Full guide on building Linux. This website has helped me build my own Linux Operating System from scratch through an in depth tutorial that is easy to follow.

@@ -17,4 +17,6 @@ ZCZC W06 hafidzsulistyan
 ZCZC W07 icarustrench
 ZCZC W07 huanis
 ZCZC W07 hzz-hzz
-
+ZCZC W08 johaneschristian
+ZCZC W08 ivanphanderson
+ZCZC W08 jasonwidodo
